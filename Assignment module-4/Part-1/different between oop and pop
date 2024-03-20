@@ -1,0 +1,30 @@
+=>OOP (Object-Oriented Programming) and POP (Procedural-Oriented Programming) are two different programming paradigms with distinct approaches to organizing and structuring code.
+
+1.Object-Oriented Programming (OOP):
+
+Key Concepts:
+
+   Objects: The fundamental building blocks in OOP are objects, which encapsulate data and behavior.
+   
+   Classes: Objects are instances of classes, which define a blueprint or template for creating objects.
+
+   Encapsulation: It involves bundling data (attributes) and methods (functions) that operate on the data into a single unit (class).
+   
+   Inheritance: It allows a class to inherit properties and methods from another class, promoting code reusability.
+
+   Polymorphism: It allows objects of different classes to be treated as objects of a common base class, enabling flexibility in code design.
+
+   Example Languages: Java, C++, Python, and C# are examples of languages that support OOP.
+
+
+2.Procedural-Oriented Programming (POP):
+
+ Key Concepts:
+
+  Procedures or Functions: In POP, the program is organized as a set of procedures or functions, which are sequences of instructions.
+ 
+  Data: Data is typically organized in structures like arrays or records, and functions operate on this data.
+ 
+  Top-Down Approach: The program's structure follows a top-down approach, with a main procedure calling other procedures.
+ 
+  Example Languages: C, Pascal, and Fortran are examples of languages that follow a procedural paradigm.
